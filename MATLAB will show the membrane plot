@@ -1,0 +1,5 @@
+This command in MATLAB will show the membrane plot. This demo 
+is a membrane like L-shaped Matlab logo. You can use surf(membrane(n))
+command where n can be 1,2,3... etc., giving you the number variation
+in this surf plot. 
+% fx>>surf(membrane)    <---type one command window
