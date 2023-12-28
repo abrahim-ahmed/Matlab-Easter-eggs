@@ -1,0 +1,4 @@
+The above command  in MATLAB will list all the demos available offline
+on your MATLAB Software Package. These demos include videos tutorials,
+script files and GUI demos.
+% fx>>demos      <---type one command window
